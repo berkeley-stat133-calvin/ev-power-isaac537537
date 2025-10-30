@@ -8,7 +8,7 @@ format: typst
 ## **Part 0: libraries**
 
 ```{r}
-
+# Adding this to commit!
 ```
 
 ## **Part 1:** **Defining Research Question**
@@ -18,17 +18,17 @@ Chosen Question:
 ## **Part 2: Data Preparation and Cleaning**
 
 ```{r}
-
+# Adding this to commit!
 ```
 
 ## **Part 3: Joining / Pivoting Datasets for Analysis**
 
 ```{r}
-
+# Adding this to commit!
 ```
 
 ## **Part 4: Mapping Visualization**
 
 ```{r}
-
+# Adding this to commit!
 ```
